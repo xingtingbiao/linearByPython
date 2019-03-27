@@ -35,6 +35,12 @@ Python实现线性回归
 
 二. Python实现线性回归
   1. 复习numpy的向量操作
+     详见代码: linear/NumpyEx.py
 
+  2. python实现最小二乘法模型
+     详见代码: linear/LeastSquares.py
+
+  3. python实现梯度下降模型
+     详见代码: linear/GradientDescent.py
 
 
