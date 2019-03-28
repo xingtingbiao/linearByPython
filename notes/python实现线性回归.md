@@ -43,4 +43,18 @@ Python实现线性回归
   3. python实现梯度下降模型
      详见代码: linear/GradientDescent.py
 
+  
+  4. 回归分析实战
+    a. 完成复杂线性回归模型分析
+      详见代码: linear/LinearDemo.py
+
+
+
+
+
+
+三. 总结
+  1. 使用Python简单实现最小二乘法和梯度下降算法
+  2. 最后实践一个简单的多维线性关系的梯度下降计算
+
 
